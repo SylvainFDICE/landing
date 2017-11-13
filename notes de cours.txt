@@ -53,7 +53,8 @@ git pulll origin master
 
 githubdeskstop
 
-gh-pages	
+gh-pages	por creer des pages hyper facilement
+
 
 
 
