@@ -1,0 +1,59 @@
+creer un compte github
+installer github desktop
+
+slides
+landing page
+chaine youtube pour revoir le cours
+
+
+responsive
+fontawesome.io
+	une police.. avec des icone au lieu de lettres
+
+
+33634394+SylvainFDICE@users.noreply.github.com
+	
+
+Git and github for begineers
+
+github pour heberger les projets hebergés par git
+
+git hub est un serveur sur le lequle on va stocker des projets html / css
+
+github desktop
+
+
+initialiser le tracking de version
+git init
+
+commit est une photogrpahie du projet
+
+diff
+pour savoir quels sont les modifications apportées
+
+si je veux commit cette nouvelle version
+je fais un git add index.html
+git commit --message "change title"
+
+
+one feature = one branch
+
+branch master
+commit different branch
+
+
+
+bitbucket
+gitlab
+github est la plus grosse plateforme de codes disponibles au monde
+
+
+git pulll origin master
+-> va telecharger la denriere version online et me dira les modifs
+
+githubdeskstop
+
+gh-pages	
+
+
+
